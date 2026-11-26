@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding:24px;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: Avenir, Helvetica, Ariel, sans-serif;
+    background-color: #f7e1c3;
+    color: #243a30;
+}
+
+h1, h2, h3{
+    margin: 0 0 16px;
+    line-height: 1.5;
+}
+
+ul, li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
